@@ -1,5 +1,6 @@
 echo ' Welcome To My World ';
-
+</br>
+<pre>
 <?php
  echo '
 <html>
@@ -8,3 +9,4 @@ echo ' Welcome To My World ';
 </html>
 ';	
 ?>
+</pre>
