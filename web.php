@@ -1,3 +1,5 @@
+<?php
+
 <html>
 	<head>
 		<title>Multi Hybrid</title>
@@ -54,3 +56,5 @@
 	</fieldset>
 	</body>
 	</html>
+    
+?>
